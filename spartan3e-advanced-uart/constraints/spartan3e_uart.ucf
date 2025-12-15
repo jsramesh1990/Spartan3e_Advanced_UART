@@ -1,0 +1,4 @@
+
+NET "clk" LOC = P80;
+NET "rx"  LOC = P83;
+NET "tx"  LOC = P84;
