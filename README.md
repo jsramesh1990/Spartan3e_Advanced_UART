@@ -190,10 +190,11 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## Ready Description
-
-> Designed and implemented an advanced UART IP core on Spartan-3E FPGA using Verilog HDL, featuring FSM-based TX/RX logic, FIFO buffering, and Linux-based build flow using Xilinx ISE.
-
----
 
 ⭐ If you find this project useful, consider giving it a **star** on GitHub!
+
+
+
+
+
+
