@@ -184,12 +184,6 @@ minicom -b 115200 -D /dev/ttyUSB0
 
 ---
 
-##  License
-
-This project is licensed under the **MIT License**.
-
----
-
 
 ⭐ If you find this project useful, consider giving it a **star** on GitHub!
 
